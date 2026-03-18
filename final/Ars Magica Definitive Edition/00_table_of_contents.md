@@ -1,0 +1,32 @@
+# Table of Contents
+
+* ii  ... [Credits](0_credits.md#credits) 
+* iv  ... [Memorials](0_credits.md#memorials)
+* v   ... [Preface](0_credits.md#preface)
+* vi  ... [Table of Illustrations](0_credits.md#table-of-illustrations)
+* 1   ... [Chapter 1: Introduction](01_chapter_1_introduction.md)
+* 9   ... [Chapter 2: Order of Hermes](02_chapter_2_order_of_hermes.md)
+* 25  ... [Chapter 3: Characters](03_chapter_3_characters.md)
+* 59  ... [Chapter 4: Virtues & Flaws](04_chapter_4_virtues_and_flaws.md)
+* 155 ... [Chapter 5: Abilities](05_chapter_5_abilities.md)
+* 173 ... [Chapter 6: Covenants](06_chapter_6_covenants.md)
+* 201 ... [Chapter 7: Hermetic Magic](07_chapter_7_hermetic_magic.md)
+* 247 ... [Chapter 8: Laboratory](08_chapter_8_laboratory.md)
+* 299 ... [Chapter 9: Spells](09_chapter_9_spells.md)
+* 373 ... [Chapter 10: Long-Term Events](10_chapter_10_long_time_events.md)
+* 393 ... [Chapter 11: Obstacles](11_chapter_11_obstacles.md)
+* 409 ... [Chapter 12: Realms](12_chapter_12_realms.md)
+* 423 ... [Chapter 13: Bestiary](13_chapter_13_bestiary.md)
+* 493 ... Map of Mythic Europe
+* 495 ... [Chapter 14: Mythic Europe](14_chapter_14_mythic_europe.md)
+* 515 ... [Chapter 15: Stories](15_chapter_15_stories.md)
+* 523 ... [Chapter 15: Sagas](16_chapter_16_sagas.md)
+* 535 ... [Appendix A: Editor's Note](17_appendix_a_editors_note.md)
+* 536 ... [Appendix B: Ars Magica Open License](18_appendix_b_ars_magica_open_license.md)
+* 537 ... [Appendix C: Fourth Edition Conversion](19_appendix_c_fourth_edition_conversion.md)
+* 539 ... [Appendix D: Reference Guide](20_appendix_d_reference_guide.md)
+* 553 ... [Appendix E: Spell Index](21_appendix_e_spell_index.md)
+* 557 ... [Appendix F: Bestiary Index](22_appendix_f_bestiary_index.md)
+* 558 ... [Appendix G: Traditional Index](23_appendix_g_traditional_index.md)
+* 569 ... Appendix H: Character Sheet
+* 573 ... Appendix I: Fifth Edition Line
