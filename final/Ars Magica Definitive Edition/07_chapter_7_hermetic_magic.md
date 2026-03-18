@@ -106,9 +106,7 @@ The term "Arts" refers collectively to Techniques and Forms — two classes of m
 
 Hermetic magi have a score in each Art. Your scores in the Arts represent your aptitude for working with the various types of magic. Arts are not merely knowledges; your Arts are ultimately ways your very being expresses magical energy. In reflection of this, your score in a Form (in addition to allowing you to cast spells incorporating that Form) helps you resist spells of that type and avoid harm from mundane sources related to that Form. For instance, your Ignem (fire) score gives you a bonus to resist damage from fire and cold. This bonus is equal to one fifth of your score in the Form, rounded up, and adds to your ability to resist any damage deriving from that Form. The most important examples of each Form bonus's applicability are listed under the Form, but these are not exhaustive lists.
 
-> Form Bonus:
->
-> Form score/5 (rounded up)
+> Form Bonus:</br>Form score/5 (rounded up)
 
 These bonuses do not stack. If it seems like two would apply to a given hazard, use only the higher bonus.
 
@@ -362,27 +360,25 @@ Raw vis can be used in many applications. Examples include strengthening a spell
 
 Magi often wear sources of vis in necklaces or rings so that other wizards or magical beings can readily perceive that they have vis to use in response to a threat.
 
-## Casting Spells %^&
+## Casting Spells
 
 Spellcasting is based on the maga's *Casting Score*:
 
-CASTING SCORE:
-
-Technique + Form + Stamina - Encumbrance + Aura Modifier
+> CASTING SCORE:</br>Technique + Form + Stamina - Encumbrance + Aura Modifier
 
 When casting a spell, success is determined from the maga's *Casting Total*. This is calculated in different ways, depending on the type of spell.
 
 If the generation of the casting total involves rolling a stress die, a botch is normally possible. If the casting roll botches, the casting total is treated as zero, in addition to any other effects.
 
-## Spell Basics
+### Spell Basics
 
 All Hermetic spells have a Technique, Form, and Level. The Technique and Form are determined by the kind of effect that the spell has, while the Level is determined by how powerful that effect is. Spells also have a magnitude, which is equal to the level divided by five, rounded up. These terms are discussed in more detail in the remainder of this chapter and in the introduction to the Spells chapter, page 301.
 
-## Formulaic Magic
+### Formulaic Magic
 
 Formulaic magic is the use of spells that the maga already knows. The casting total is the casting score plus a die roll.
 
-FORMULAIC CASTING TOTAL: Casting Score + Die Roll
+> FORMULAIC CASTING TOTAL:</br>Casting Score + Die Roll
 
 The type of die rolled depends on the situation. If the maga is not under any pressure, it is a simple die. If she is in a stressful situation, it is a stress die. If the maga has mastered the spell, the die is always a stress die, but in a calm situation there are no botch dice, even if the maga is in a non-Magic aura (see below, page 225).
 
@@ -396,13 +392,11 @@ If the casting total equals or exceeds the level of the spell, the spell is cast
 
 It takes only a few seconds to cast a Formulaic spell.
 
-## Ritual Magic
+### Ritual Magic
 
 Ritual spells are like Formulaic spells, but they take longer to cast, and involve both elaborate rituals and the expenditure of raw vis. It takes fifteen minutes per magnitude to cast a Ritual spell, and the maga must expend one pawn of vis per magnitude of the spell.
 
-RITUAL CASTING TOTAL:
-Casting Score + Artes Liberales
-+ Philosophiae + Stress Die
+> RITUAL CASTING TOTAL:</br>Casting Score + Artes Liberales + Philosophiae + Stress Die
 
 The more elaborate process of casting a Ritual spell allows the maga to incorporate astrological calculations and to draw on the powers of natural magic. This is reflected in the addition of the maga's Artes Liberales and Philosophiae scores to the casting total. However, a maga with no experience points in either Ability may still cast Ritual Magic.
 
@@ -420,13 +414,13 @@ See the table to determine whether the spell succeeds or not, and how many Fatig
 | −11 to −15                    | No          | Four                   |
 | –16 or more                   | No          | Five                   |
 
-## Spontaneous Magic
+### Spontaneous Magic
 
 Spontaneous magic involves the production of effects which do not correspond to a spell the magus knows. Magi may choose whether or not to exert themselves when casting Spontaneous magic, but this affects the casting total. If a maga exerts herself, she loses a Fatigue level immediately after the spell is cast, so that if this loss renders her unconscious the spell takes effect first. Casting fatiguing Spontaneous magic is inherently stressful, and so it always uses a stress die, with the risk of a botch, no matter how calm the environment and the maga may otherwise be.
 
-Fatiguing Spontaneous Magic Casting Total: (Casting Score + Stress Die)/2
+> Fatiguing Spontaneous Magic Casting Total:</br>(Casting Score + Stress Die)/2
 
-Non-Fatiguing Spontaneous Magic Casting Total: Casting Score/5
+> Non-Fatiguing Spontaneous Magic Casting Total:</br>Casting Score/5
 
 Before casting the spell, the maga must decide on the effect she is trying to create. If her final total is too low for that effect, the spell fails. The chosen effect may be open ended. For example, the maga may want to create the brightest light she can. In this case, the spell will fail if the final level cannot produce any light, but otherwise greater totals will produce brighter light.
 
@@ -434,17 +428,13 @@ If the maga rolls well, she may choose to increase any or all of the Range, Dura
 
 Modifiers from circumstances that affect the casting score are divided just like the basic casting score. Modifiers that affect the casting total are not divided.
 
-![](_page_221_Picture_7.jpeg)
-
-![](_page_222_Picture_0.jpeg)
-
-## Penetration Total
+### Penetration Total
 
 The maga's casting total measures the total amount of power that she can channel to the spell. The spell's level determines how much power is needed to create the intended effect. Any excess power is used to overcome, or Penetrate, magical defenses. It is possible for the casting total to be lower than the spell level, in which case the maga has no spare energy for penetrating defenses, and even the weakest defense stops the spell.
 
 The Penetration Total measures how effectively the spell can overcome the Magic Resistance of its targets. It is calculated in the same way for all spells.
 
-## PENETRATION TOTAL: Casting Total + Penetration Bonus - Spell Level
+> PENETRATION TOTAL:</br>Casting Total + Penetration Bonus - Spell Level
 
 The Penetration Bonus is at least equal to the magus's score in the Penetration Ability, but may be increased in various ways, see the Penetration section on page 219, below. This may mean that a spell has different Penetration Totals for different targets.
 
@@ -454,11 +444,11 @@ If the Penetration Total exceeds a target's Magic Resistance, the spell affects 
 
 The rules for calculating Penetration for the powers of supernatural creatures are given in the Bestiary chapter (page 426). The rules for the Penetration of other supernatural abilities are given on page 412, or in the supplement with the rules for the ability; in most cases, the Penetration is the total generated for the ability plus Penetration Bonus, minus the Ease Factor for the effect.
 
-## Concentration
+### Concentration
 
 A maga must concentrate in order to cast a spell. If she is distracted, she must make a concentration roll.
 
-#### Concentration Roll: Stamina + Concentration + Stress Die
+> Concentration Roll:</br>Stamina + Concentration + Stress Die
 
 If the concentration roll fails, the spell fails. If the spell casting roll involved a stress die, you must still roll to see whether the maga botches, and you get one extra botch die. The Ease Factor for the concentration roll depends on the distraction.
 
@@ -469,7 +459,7 @@ If the concentration roll fails, the spell fails. If the spell casting roll invo
 | Running                           | Average (9)    |
 | Dodging                           | Hard (12)      |
 | Jostled                           | Average (9)    |
-| Sudden noise or<br>flash of light | Average (9)    |
+| Sudden noise or flash of light | Average (9)    |
 | Knocked Down                      | Hard (12)      |
 | Damaged this round                | Very Hard (15) |
 
@@ -477,74 +467,69 @@ Some spells are also maintained for as long as the maga concentrates. In that ca
 
 There are some things it is possible to do while maintaining a spell, but impossible to do while casting. These still distract magi who are concentrating on maintaining a spell, and so concentration rolls are necessary, but the Ease Factors on the following table are already correct, and should not be reduced by three points.
 
-| SITUATION                               | Ease Factor                                                                                   |  |
-|-----------------------------------------|-----------------------------------------------------------------------------------------------|--|
-| Answering a single easy yes/no question | Hard (12)                                                                                     |  |
-| Conversation                            | Very Hard (15)                                                                                |  |
-| Casting another spell                   | Very Hard (15)                                                                                |  |
-| Maintaining another spell               | Hard (12), +3 for each spell beyond the second                                                |  |
-| Injured                                 | 3 times wound penalty<br>to Concentration rolls<br>(this is instead of the<br>normal penalty) |  |
+| SITUATION | Ease Factor |
+| --- | --- |
+| Answering a single easy yes/no question | Hard (12) |
+| Conversation                            | Very Hard (15) |
+| Casting another spell                   | Very Hard (15) |
+| Maintaining another spell               | Hard (12), +3 for each spell beyond the second |
+| Injured                                 | 3 times wound penalty to Concentration rolls (this is instead of the normal penalty) |
 
 For a continuing situation, such as injury or maintaining another spell, you must make a concentration roll every two minutes (Diameter duration). If you are undistracted, you can maintain concentration for fifteen minutes for every point you have in the Concentration Ability.
 
 Note, if a spell is designed to let the magus do something, doing that thing does not interfere with concentrating on the spell. This applies to spells that let the magus talk to animals, plants, or water, or to spells that let the magus run very quickly.
 
-## Spellcasting **Options**
+## Spellcasting Options
 
 This section offers options for spellcasting, to use at your discretion.
 
-## All Spells
+### All Spells
 
 The following option can be used with all spells.
 
-## Using Raw Vis
+#### Using Raw Vis
 
 It is possible to use raw vis to boost the power of a maga's spells. The vis must match either the Technique or the Form of spell, and a maga may only use a number of pawns of a given type of vis equal to her score in that Art.
 
-> LIMIT ON VIS USE IN SPELL CASTING: The Maga's Score in the Art of the Vis
+> LIMIT ON VIS USE IN SPELL CASTING:</br>The Maga's Score in the Art of the Vis
 
 For all spells, a maga may expend vis to increase her casting score. Each pawn of vis expended increases the Casting Score by two.
 
+> VIS BOOST TO CASTING SCORE:</br>+2 Casting Score Per Pawn
+
 Vis must be used when casting Ritual spells, as noted above. Vis used in this way does not increase the Casting Score, but it does count against the limits of what can be used.
 
-of each type of vis is limited separately. Thus, a magus with a score of 5 in the
-
-VIS BOOST TO CASTING SCORE: +2 Casting Score Per Pawn
-
-Technique and 3 in the Form could use up to 8 pawns of vis, no more than 5 corresponding to the Technique and no more than 3 corresponding to the Form.
+It is possible to use vis matching both the Technique and the Form in one casting of a spell, and the amount of each type of vis is limited separately. Thus, a magus
+with a score of 5 in the Technique and 3 in the Form could use up to 8 pawns of vis, no more than 5 corresponding to the Technique and no more than 3 corresponding to the Form.
 
 For every pawn of vis used, the maga must roll an extra botch die if the casting roll is stress and comes up a zero. This includes the pawns used to make a Ritual spell possible. Remember that, if the maga can cast a Formulaic spell under calm conditions, she can use a simple die and thus avoid the possibility of botching.
 
-> VIS BOTCH DICE: +1 botch die per pawn of vis used
+> VIS BOTCH DICE:</br>+1 botch die per pawn of vis used
 
-## Non-Ritual Spells
+### Non-Ritual Spells
 
 The following option can be used when casting Formulaic or most Spontaneous spells, but not for Ritual Magic, or Spontaneous spells cast ceremonially (see later).
 
-## Cords and Gestures
+#### Words and Gestures
 
-![](_page_223_Picture_16.jpeg)
+Spells are normally cast with a firm voice and bold gestures. However, the caster may choose to be more or less subtle. Increased subtlety gives a penalty to the casting score, while reduced discretion gives a bonus. If the maga changes the volume of her voice, she also changes the range of Voice range spells.
 
-![](_page_224_Picture_0.jpeg)
+The total modifier is determined by adding the Words and Gestures modifiers together. Thus, using exaggerated gestures but making no noise gives a total penalty of –9 to the casting score.
 
-The total modifier is determined by adding the Words and Gestures modifiers together. Thus,
-
-| Words | Modifier | Gestures    | Modifier   | VOICE<br>RANGE              |
+| Words | Modifier | Gestures    | Modifier   | VOICE RANGE              |
 |-------|----------|-------------|------------|-----------------------------|
-| Loud  | + 1      | Exaggerated | +1         | 50<br>paces                 |
-| Firm  | 0        | Bold        | 0          | 15<br>paces                 |
+| Loud  | + 1      | Exaggerated | +1         | 50 paces                 |
+| Firm  | 0        | Bold        | 0          | 15 paces                 |
 | Quiet | -5       | Subtle      | -2         | 5 paces                     |
-| None  | -10      | None        | <b>-</b> 5 | 0 paces<br>(caster<br>only) |
-
-using exaggerated gestures but making no noise gives a total penalty of –9 to the casting score.
+| None  | -10      | None        | -5         | 0 paces (caster only) |
 
 The process of casting a Ritual or ceremonial spell uses all of these options at different points, as determined by the ritual. Thus, unless the caster can speak in a loud voice and make exaggerated gestures, they cannot cast a Ritual spell.
 
-## Spontaneous Spells
+### Spontaneous Spells
 
 The following options can only be used when a maga is using Spontaneous magic, but can be used equally for fatiguing and non-fatiguing Spontaneous spells.
 
-## Fast Casting
+#### Fast Casting
 
 A maga may choose to cast a Spontaneous spell extremely quickly, as a response to an attack or other surprising event. A fast-cast spell is always cast in the way that a maga casts urgent spells normally. In most cases, that means using a firm voice and bold gestures. However, for example, a maga with the Subtle Magic Virtue who almost never uses gestures to cast spells would also cast fast-cast spells without gestures. It is not possible to apply options that affect the spell itself, rather than the way it is cast, as there is not enough time for the maga to think about anything other than the core features of the spell. For example, a fast-cast spell cannot be boosted with raw vis.
 
@@ -552,40 +537,35 @@ There are two stages: determining the speed of casting, and determining the effe
 
 The speed of casting is determined as follows:
 
-#### Fast Casting Speed: Quickness + Finesse + Stress Die
+> Fast Casting Speed:</br>Quickness + Finesse + Stress Die
 
-The Ease Factor for this roll depends on the situation. In combat, the Ease Factor is always the opponent's Initiative Total. Other Ease Factors should be set by the storyguide. Note that, even
-
-in combat, the fast casting speed is not an Initiative Total. A maga may be able to cast more than one fast-cast spell in one combat round. However, each spell after the first takes a cumulative -6 penalty to the Fast Casting Speed: -6 for the second spell, -12 for the third, and so on. Once one of these rolls has been failed, that is the roll does not equal or exceed the Ease Factor for that roll, which may be the Initiative Total of another combatant, the maga can cast no further spells in that combat round.
+The Ease Factor for this roll depends on the situation. In combat, the Ease Factor is always the opponent's Initiative Total. Other Ease Factors should be set by the storyguide. Note that, even in combat, the fast casting speed is not an Initiative Total. A maga may be able to cast more than one fast-cast spell in one combat round. However, each spell after the first takes a cumulative -6 penalty to the Fast Casting Speed: -6 for the second spell, -12 for the third, and so on. Once one of these rolls has been failed, that is the roll does not equal or exceed the Ease Factor for that roll, which may be the Initiative Total of another combatant, the maga can cast no further spells in that combat round.
 
 If the roll for a fast-cast spell fails, the maga may still cast that spell. It will be too late to have its intended effect, and the maga may choose to abort the spell without any risk.
 
 A maga casting a fast-cast spell must subtract ten from the Casting Score before calculating the Casting Total. In addition, if the player rolls a zero, there are two additional botch dice.
 
-Fast Cast Penalty: -10 to Casting Score Fast Cast Botch Dice: +2 botch dice
+> Fast Cast Penalty:</br>-10 to Casting Score
+
+> Fast Cast Botch Dice:</br>+2 botch dice
 
 In order to create a fast-cast defense against magic, a maga must know the Hermetic Form that governs that magic. If the caster is a Hermetic magus and is using words and gestures that she can hear and see, she may determine this automatically. A Perception + Awareness roll may be needed to catch the details of the gestures, particularly if they are subtle.
 
 In other circumstances, the maga must work the Form out. A Perception + Awareness roll against an Ease Factor of 15 minus the magnitude of the effect is needed.
 
-Determining Form of Magical Effect:
-Perception + Awareness vs.
-
-15 – effect magnitude
+> Determining Form of Magical Effect:</br>Perception + Awareness vs. 15 – effect magnitude
 
 In general, a fast-cast defense with half the level of the attacking spell is enough to protect the maga herself or one other individual. The spell still takes effect, and the side effects of deflecting the spell may have to be dealt with. A fast-cast defense that matches or exceeds the level of the attacking spell can completely neutralize it, probably in a fairly spectacular fashion.
 
 Fast-cast defenses against mundane threats work if the level of the spell is high enough to neutralize the threat.
 
-## **Ceremonial Casting**
+#### Ceremonial Casting
 
-A maga may spend fifteen minutes for every magnitude of the spell performing rituals to invoke the powers of natural magic. As a result, she may add her scores in Artes Liberales and Philosophiae to her Casting Score. A maga may use ceremonial casting even if she has no
-
-experience points in one of the two Abilities, but not if she has no experience points in either.
+A maga may spend fifteen minutes for every magnitude of the spell performing rituals to invoke the powers of natural magic. As a result, she may add her scores in Artes Liberales and Philosophiae to her Casting Score. A maga may use ceremonial casting even if she has no experience points in one of the two Abilities, but not if she has no experience points in either.
 
 No matter how good the roll, the level of the spell is limited by the time the maga spent in casting it, to one magnitude per fifteen minutes. However, the casting total may be very high, so the spell may have good Penetration. Thus, if the maga spends one hour preparing, the final spell cannot be higher than fourth magnitude, which means its level cannot be higher than 20. However, if she gets lucky and rolls a 64 on the stress die, the spell will have a Penetration of 12 (32, which is half of 64, minus the maximum spell level of 20) plus half her Technique + Form + Artes Liberales + Philosophiae + Stamina total.
 
-# CEREMONIAL CASTING BONUS: Add Artes Liberales and Philosophiae to Casting Score
+> CEREMONIAL CASTING BONUS:</br>Add Artes Liberales and Philosophiae to Casting Score
 
 Characters may also increase the effectiveness of ceremonial casting by using props, and by using a prepared spellcasting space.
 
@@ -597,9 +577,7 @@ The use of props provides a bonus based on the mystical significance of the item
 - +4 for large props, such that fifteen could only be transported by a wagon
 - +5 for props so large that it is impractical to move them from the room in which they are constructed.
 
-As an example, Carmine of Flambeau, the wife of the Primus of Jerbiton, prefers Creo Ignem effects. She wears a ruby necklace and a coral brooch, and uses these as a small ceremonial kit
-
-when casting small effects in cities. Her husband prefers Rego Imaginem magic. He has a medium-sized ceremonial kit, two items of which are a wand made of the crown of a fairy king that he defeated (Imaginem), and his cat familiar (Rego, for this particular cat).
+As an example, Carmine of Flambeau, the wife of the Primus of Jerbiton, prefers Creo Ignem effects. She wears a ruby necklace and a coral brooch, and uses these as a small ceremonial kit when casting small effects in cities. Her husband prefers Rego Imaginem magic. He has a medium-sized ceremonial kit, two items of which are a wand made of the crown of a fairy king that he defeated (Imaginem), and his cat familiar (Rego, for this particular cat).
 
 Prepared space reduces the time required to cast spells ceremonially.
 
@@ -611,17 +589,9 @@ Casting time when using ceremonial spaces, in minutes per magnitude:
 - Three minutes per magnitude: The magus's laboratory, or other place of magical contemplation.
 - One minute per magnitude: A room designed solely for ceremonial casting, which contains props of the largest variety, and mystical choreographies permanently inscribed on the floor. Characters with the Mystical Choreography Virtue cast ceremonial magic at this speed regardless of how temporary their prepared space.
 
-![](_page_225_Picture_19.jpeg)
-
-![](_page_225_Picture_20.jpeg)
-
-![](_page_226_Picture_0.jpeg)
-
 ## Arcane Connections
 
-![](_page_226_Picture_2.jpeg)
-
-rcane Connections allow a maga to cast a spell on something she is not currently sensing, as long as she is currently aware of the Arcane Connection. Mystically,
+Arcane Connections allow a maga to cast a spell on something she is not currently sensing, as long as she is currently aware of the Arcane Connection. Mystically,
 
 the Arcane Connection is still a part of the target, thus making the spell possible. However, the spell must have a range of Arcane Connection, which makes casting spells like this harder than casting them on a target that is actually present.
 
@@ -629,29 +599,26 @@ One thing— the connection — is an Arcane Connection to something else — th
 
 Arcane Connections must be stored carefully, or else they become links to different people or places.
 
-| Duration         | Example Connections                                                                                                                                                                                                                                |
-|------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Hours            | Air from a specific place, shed skin from a human being, water from a moving body of water.                                                                                                                                                        |
-| Days             | A frequently used tool or item of clothing, water from a still body of water, something mundane made by the target, excrement.                                                                                                                     |
-| Weeks            | Lesser enchanted device, an item designed and made by the target, for example a letter composed and written by the target. An item designed by one person and made by another is an Arcane Connection lasting for days, to the person who made it. |
-| Months           | Strand of hair, favorite tool or item of clothing, wood shard from a specific place, feather from a bird, scale from a reptile.                                                                                                                    |
-| Years<br>Decades | Invested device, rock or metal from a specific place, blood, lock of hair, group of feathers from a bird, group of scales from a reptile.  Body part.                                                                                              |
-| Indefinite       | Hermetic familiar (link to master), Hermetic magus (link to familiar), Hermetic talisman (link to creator), fixed Arcane Connections (see 'Fixing Arcane Connections' in the Laboratory chapter, page 250).                                        |
+| Duration | Example Connections |
+| --- | --- |
+| Hours | Air from a specific place, shed skin from a human being, water from a moving body of water. |
+| Days | A frequently used tool or item of clothing, water from a still body of water, something mundane made by the target, excrement. |
+| Weeks | Lesser enchanted device, an item designed and made by the target, for example a letter composed and written by the target. An item designed by one person and made by another is an Arcane Connection lasting for days, to the person who made it. |
+| Months | Strand of hair, favorite tool or item of clothing, wood shard from a specific place, feather from a bird, scale from a reptile. |
+| Years | Invested device, rock or metal from a specific place, blood, lock of hair, group of feathers from a bird, group of scales from a reptile. |
+| Decades | Body part. |
+| Indefinite | Hermetic familiar (link to master), Hermetic magus (link to familiar), Hermetic talisman (link to creator), fixed Arcane Connections (see 'Fixing Arcane Connections' in the Laboratory chapter, page 250).|
 
 ## Penetration
 
-![](_page_226_Picture_9.jpeg)
-
-enetration is the ability of a spell or other magical ability to affect something that has Magic Resistance. If something has no Magic Resistance,
-
-Penetration is irrelevant. A single spell may have several targets, for example all the members of a Group. In that case, any targets without Magic Resistance are affected no matter what the Penetration of the spell, but any targets with Magic Resistance are only affected if the spell Penetrates that target's Magic Resistance.
+Penetration is the ability of a spell or other magical ability to affect something that has Magic Resistance. If something has no Magic Resistance, Penetration is irrelevant. A single spell may have several targets, for example all the members of a Group. In that case, any targets without Magic Resistance are affected no matter what the Penetration of the spell, but any targets with Magic Resistance are only affected if the spell Penetrates that target's Magic Resistance.
 
 Any character with the Penetration Ability can use sympathetic magic to increase the Penetration of her magic. The Penetration Bonus starts at one times the character's Penetration Ability, and the multiplier can be increased. This requires that the character have an Arcane Connection to the target of the magic.
 
 | Arcane Connection        | Bonus to Multiplier |
 |--------------------------|---------------------|
 | Lasts hours or days      | +1                  |
-| Lasts weeks or<br>months | +2                  |
+| Lasts weeks or months    | +2                  |
 | Lasts years or decades   | +3                  |
 | Lasts indefinitely       | +4                  |
 
@@ -659,59 +626,51 @@ The same Arcane Connection can be used to both allow the use of Arcane Connectio
 
 Once a character has an Arcane Connection she can use other sympathetic magic to increase the multiplier further. Any number of sympathetic connections may be used, and their bonuses stack. The following table provides some examples, but is not exhaustive. Each troupe should specify the kinds of sympathetic connection it allows, but no single connection should give a bonus of greater than +2.
 
-## Forceless Casting
+> ### Forceless Casting
+>
+> A maga can deliberately ensure the Penetration Total of a spell does not exceed 0. In essence, the maga casts the spell with no more effort than is required to avoid Fatigue and opts not to use her Penetration skill. As most magi have at least a Magic Resistance of 0, she can ensure her spell will not affect them, provided she does not botch. It is not possible for a maga to choose a Penetration Total other than 0, although mystery cults may know secret techniques that permit this, and original research might also reveal a method.
+> 
+> Forceless casting requires no particular skill or effort. It is useful in magical tournaments, or when a maga casts a spell covering a large area and wants to avoid inadvertently affecting any magi who may be within the target area.
 
-A maga can deliberately ensure the Penetration Total of a spell does not exceed 0. In essence, the maga casts the spell with no more effort than is required to avoid Fatigue and opts not to use her Penetration skill. As most magi have at least a Magic Resistance of 0, she can ensure her spell will not affect them, provided she does not botch. It is not possible for a maga to choose a Penetration Total other than 0, although mystery cults may know secret techniques that permit this, and original research might also reveal a method.
+> ### Sympathetic Connections
+>
+> | Sympathetic Connection                   | Bonus to<br>Multiplier |
+> |------------------------------------------|------------------------|
+> | Caster is blood relative of target       | +1                     |
+> | Signature of target                      | +1                     |
+> | Target's nickname or<br>birth name*      | +1                     |
+> | Name target uses in secret magic rituals | +1                     |
+> | Target's horoscope<br>for today**        | +1                     |
+> | Target's nativity horoscope***           | +2                     |
+> | Symbolic representation of target****    | +2                     |
+> 
+> \*Baptismal names cannot be used in sympathetic magic.
+>
+> \*\*Caster must know the target's current location, and succeed in an Int + Artes Liberales (Astronomy) roll against an Ease Factor of 9 Casting such a horoscope takes an hour.
+>
+> \*\*\*Caster must know the target's place and time of birth, and succeed in an Int + Artes Liberales (Astronomy) roll against an Ease Factor of 9. Casting such a horoscope takes a day's work.
+>
+> \*\*\*\*An illustration or model of some sort. A simple representation, good for one use, takes several hours and a Dexterity + Craft roll of 9+ to create. A permanent representation takes a month of work and a Dexterity + Craft roll of 12+. The representation can only be used by the person who made it.
 
-Forceless casting requires no particular skill or effort. It is useful in magical tournaments, or when a maga casts a spell covering a large area and wants to avoid inadvertently affecting any magi who may be within the target area.
-
-## Sympathetic Connections
-
-| Sympathetic Connection                   | Bonus to<br>Multiplier |
-|------------------------------------------|------------------------|
-| Caster is blood relative of target       | +1                     |
-| Signature of target                      | +1                     |
-| Target's nickname or<br>birth name*      | +1                     |
-| Name target uses in secret magic rituals | +1                     |
-| Target's horoscope<br>for today**        | +1                     |
-| Target's nativity horoscope***           | +2                     |
-| Symbolic representation of target****    | +2                     |
-
-\*Baptismal names cannot be used in sympathetic magic.
-
-\*\*Caster must know the target's current location, and succeed in an Int + Artes Liberales (Astronomy) roll against an Ease Factor of 9. Casting such a horoscope takes an hour.
-
-\*\*\*Caster must know the target's place and time of birth, and succeed in an Int + Artes Liberales (Astronomy) roll against an Ease Factor of 9. Casting such a horoscope takes a day's work.
-
-\*\*\*\*An illustration or model of some sort. A simple representation, good for one use, takes several hours and a Dexterity + Craft roll of 9+ to create. A permanent representation takes a month of work and a Dexterity + Craft roll of 12+. The representation can only be used by the person who made it.
-
-## Penetration Example
-
-For example, Mari Amwithig wants to be able to cast Agony of the Beast on the dragon that has been causing problems for the covenant. She has a Penetration score of 3, specialized in Perdo, so it is effectively 4. That would typically give her a Penetration of around 20, because she can expect to exceed the spell level by 16 on most rolls. That isn't enough to affect the dragon.
-
-The first thing she does is obtain an Arcane Connection to the dragon, and fix it in the laboratory. This gives her a bonus of +4 to the Penetration multiplier, so now her Penetration score is multiplied by 5 (1 + 4) when determining her penetration bonus. Her typical penetration is now around 36, which is better but still not quite good enough, she thinks.
-
-Mari's player argues that dragons have horoscopes just like anyone else, and the storyguide agrees. Unfortunately, Mari has no idea when, or even if, the dragon was born, so she can only make a daily horoscope. That increases the Penetration multiplier by +1, so her Penetration score is now multiplied by 6. This makes her typical Penetration total 40.
-
-Mari has also Mastered the spell (see page 225) and taken the Penetration Mastery special ability. She has a score of 1 in the Mastery Ability for the spell, and this adds to her Penetration score, so that instead of multiplying 4 by 6, she multiplies 5 (4 for Penetration, 1 for the Mastery Ability) by 6. This raises her typical penetration total to 46, which she thinks will be enough to get the dragon's attention. Arcane Connection and horoscope in hand, she sets off.
-
-![](_page_227_Picture_14.jpeg)
-
-![](_page_228_Picture_0.jpeg)
+> ### Penetration Example
+>
+> For example, Mari Amwithig wants to be able to cast Agony of the Beast on the dragon that has been causing problems for the covenant. She has a Penetration score of 3, specialized in Perdo, so it is effectively 4. That would typically give her a Penetration of around 20, because she can expect to exceed the spell level by 16 on most rolls. That isn't enough to affect the dragon.
+>
+> The first thing she does is obtain an Arcane Connection to the dragon, and fix it in the laboratory. This gives her a bonus of +4 to the Penetration multiplier, so now her Penetration score is multiplied by 5 (1 + 4) when determining her penetration bonus. Her typical penetration is now around 36, which is better but still not quite good enough, she thinks.
+>
+> Mari's player argues that dragons have horoscopes just like anyone else, and the storyguide agrees. Unfortunately, Mari has no idea when, or even if, the dragon was born, so she can only make a daily horoscope. That increases the Penetration multiplier by +1, so her Penetration score is now multiplied by 6. This makes her typical Penetration total 40.
+>
+> Mari has also Mastered the spell (see page 225) and taken the Penetration Mastery special ability. She has a score of 1 in the Mastery Ability for the spell, and this adds to her Penetration score, so that instead of multiplying 4 by 6, she multiplies 5 (4 for Penetration, 1 for the Mastery Ability) by 6. This raises her typical penetration total to 46, which she thinks will be enough to get the dragon's attention. Arcane Connection and horoscope in hand, she sets off.
 
 ## Magic Resistance
 
-![](_page_228_Picture_2.jpeg)
-
-ost human beings have no Magic Resistance. If the target of a spell has no Magic Resistance, then he suffers its effects no matter how low the Penetration total, even if
-
-it is negative. Humans can gain general Magic Resistance from three sources: the Divine, the Infernal, and Hermetic magic. No other magical or faerie powers are able to provide general Magic Resistance to humans, but creatures with a Might score have Magic Resistance equal to their Might (see page 427).
+Most human beings have no Magic Resistance. If the target of a spell has no Magic Resistance, then he suffers its effects no matter how low the Penetration total, even if it is negative. Humans can gain general Magic Resistance from three sources: the Divine, the Infernal, and Hermetic magic. No other magical or faerie powers are able to provide general Magic Resistance to humans, but creatures with a Might score have Magic Resistance equal to their Might (see page 427).
 
 Hermetic magi have a base Magic Resistance equal to their score in the Form most applicable to the spell cast. In case of doubt, Vim is a safe default. Thus, a maga attacked with magical fire would have Magic Resistance at least equal to her Ignem score. Since all Hermetic magi have a score of at least 0 in every Form, a maga never has a Magic Resistance of less than zero.
 
 If the target of a spell has Magic Resistance of 0, she is only affected if the Penetration total is 1 or greater. Thus, Magic Resistance 0 is substantially better than no Magic Resistance.
 
-## Parma Magica
+### Parma Magica
 
 The Parma Magica, Bonisagus's great invention, is an Ability that grants Magic Resistance that adds to the resistance arising from a maga's Form scores.
 
@@ -723,11 +682,11 @@ A magus may also protect one other person for each point in Parma Magica, with t
 
 While a magus is protecting others, his effective Parma Magica score is reduced by 3 points, both for himself and for the other people he is protecting. If the magus has a Parma Magica score of 3 or lower, his Parma Magica provides each character, including himself, with a Magic Resistance of 0. In the magus's case, this is added to his Form resistance, and a magus protected by another magus's Parma Magica may also add his Form resistance.
 
-## Awareness of Attack
+### Awareness of Attack
 
 If a spell is stopped by Magic Resistance, the target knows that some effect has been stopped, but knows nothing about it. If a spell penetrates her Magic Resistance, she gets no warning other than any obvious effects the spell has. A very subtle spell might well go completely unnoticed if cast successfully.
 
-# The Functioning of Magic Resistance
+### The Functioning of Magic Resistance
 
 Magic Resistance keeps magic away from the maga, her clothing, and other items that are very close to her. It does not dispel magic.
 
@@ -746,10 +705,6 @@ A mind control spell targeted at the maga alone fails.
 A mind control spell targeted at a group including the maga fails to affect the maga, but may affect other members of the group.
 
 A jet of magical water parts around the maga, and she does not even get wet.
-
-![](_page_229_Picture_0.jpeg)
-
-![](_page_230_Picture_0.jpeg)
 
 A jet of normal water driven by magic reaches the maga and makes her wet, but has no force of impact, as the magical power cannot pass her resistance.
 
@@ -789,7 +744,7 @@ An illusion cast on the maga fails.
 
 A maga may want to cast a spell that affects something else, and only indirectly affects the target. In this case, the target's Magic Resistance is irrelevant, as the spell does not target her. However, while spells always hit their targets, indirect effects may not reach the true target; they must be aimed. If a spell is resisted, as above, it need not be aimed. If it is not resisted, it must be aimed.
 
-## AIMING ROLL: Perception + Finesse + Die
+> AIMING ROLL:</br>Perception + Finesse + Die
 
 The die is a stress die if the maga is under stress, a simple die otherwise. Treat the total as an attack total (see Combat on page 393). If the 'attack' hits, the spell effect is in the right place; what effect this has depends on the spell. The magus does not generate an Attack Advantage even if the spell inflicts damage; the damage is determined by rolling a stress die and adding the spell's damage bonus, and comparing it to the target's Soak Total + stress die.
 
@@ -797,35 +752,31 @@ If the direct target of the spell is a basic Individual for the Form in question
 
 For extreme cases, the troupe should use its judgment and may change the bonus. For example, a basic Individual in Auram could be a cloud 100 paces across, which should grant a large bonus to aiming, while a gemstone created two steps larger than a basic Individual is still only 10 inches or so across, and so should probably grant no bonus at all.
 
-## Bypassing Magic Resistance
+> ### Bypassing Magic Resistance
+>
+> The following are examples of spells that bypass the ultimate victim's Magic Resistance, and thus need to be aimed.
+> 
+> - Moving a boulder over the victim's head with Rego Terram, and then dropping it.
+> - Destroying the earth underneath her feet so that she falls into a pit.
+> - Creating a wooden box around her so that she cannot see or move.
+> - Changing the earth under her feet into mud, so that she sinks. Note that she will not get muddy unless the spell penetrates her Magic Resistance, as the mud is a magical substance which is kept away from her.
+> - Destroying all the air around her so that she cannot breathe (briefly, but enough to force a Concentration roll), and suffers some damage from the surrounding air rushing in to fill the vacuum.
 
-The following are examples of spells that bypass the ultimate victim's Magic Resistance, and thus need to be aimed.
-
-- Moving a boulder over the victim's head with Rego Terram, and then dropping it.
-- Destroying the earth underneath her feet so that she falls into a pit.
-- Creating a wooden box around her so that she cannot see or move.
-- Changing the earth under her feet into mud, so that she sinks. Note that she will not get muddy unless the spell penetrates her Magic Resistance, as the mud is a magical substance which is kept away from her.
-- Destroying all the air around her so that she cannot breathe (briefly, but enough to force a Concentration roll), and suffers some damage from the surrounding air rushing in to fill the vacuum.
-
-## Projectiles and Rego Magic
-
-The laws of physics in Mythic Europe conform to medieval ideas, not modern ones. The differences are often unimportant, but they become significant when a magus uses Rego spells to throw projectiles or to drop heavy objects from a height. The physics (or "natural philosophy" as characters would call it) of Mythic Europe is described in more detail in *Art & Academe*. This insert clarifies a narrow topic: how to use Rego spells as a form of attack.
-
-In fact, there are three different ways Rego magic may be used offensively.
-
-The first way is to use magic to propel the projectile all the way to the target. In this case, the motive force of the projectile is entirely due to magic. Magic Resistance would protect against this form of attack. The projectile would stop harmlessly at the edge of the target's Magic Resistance. This sort of spell does not need to be aimed.
-
-The second form of attack is to exploit what philosophers call "natural motion:" the natural tendency of heavy objects to fall downward. A magus could use Rego magic to levitate a rock over someone's head and then cancel the spell. The rock would naturally fall and would bypass Magic Resistance. Such a spell would need to be aimed.
-
-The third way is to use a brief jolt of magical force to hurl a projectile as an arrow is thrown from a bow. Medieval natural philosophy did offer an explanation for how an arrow could continue moving after it leaves the bow. To over-simplify (in the interest of brevity), it involves the motion of air around the arrow. Magi can devise spells that hurl projectiles in this manner. Only specially-designed Rego spells can throw projectiles this way — the spell's description must explicitly state that it can throw projectiles (these spells are higher magnitude than generic Rego spells). Spells that throw a projectile release control of it immediately after launching it. The projectile then continues on a natural trajectory. In game terms, this means the spell must be aimed, but the projectile bypasses Magic Resistance. The Range of the spell need only be Touch (the magic only needs to act at the moment the projectile is thrown), but once launched, the projectile is subject to the natural laws of motion. The aiming roll suffers a range penalty just like a missile weapon does (page 395) and the projectile can go no farther than it could be thrown by a very powerful mundane bow (or sling, catapult, or other device). Most projectiles thrown by spells have a range increment of 20 paces.
+> ### Projectiles and Rego Magic
+>
+> The laws of physics in Mythic Europe conform to medieval ideas, not modern ones. The differences are often unimportant, but they become significant when a magus uses Rego spells to throw projectiles or to drop heavy objects from a height. The physics (or "natural philosophy" as characters would call it) of Mythic Europe is described in more detail in *Art & Academe*. This insert clarifies a narrow topic: how to use Rego spells as a form of attack.
+>
+> In fact, there are three different ways Rego magic may be used offensively.
+>
+> The first way is to use magic to propel the projectile all the way to the target. In this case, the motive force of the projectile is entirely due to magic. Magic Resistance would protect against this form of attack. The projectile would stop harmlessly at the edge of the target's Magic Resistance. This sort of spell does not need to be aimed.
+>
+> The second form of attack is to exploit what philosophers call "natural motion:" the natural tendency of heavy objects to fall downward. A magus could use Rego magic to levitate a rock over someone's head and then cancel the spell. The rock would naturally fall and would bypass Magic Resistance. Such a spell would need to be aimed.
+>
+> The third way is to use a brief jolt of magical force to hurl a projectile as an arrow is thrown from a bow. Medieval natural philosophy did offer an explanation for how an arrow could continue moving after it leaves the bow. To over-simplify (in the interest of brevity), it involves the motion of air around the arrow. Magi can devise spells that hurl projectiles in this manner. Only specially-designed Rego spells can throw projectiles this way — the spell's description must explicitly state that it can throw projectiles (these spells are higher magnitude than generic Rego spells). Spells that throw a projectile release control of it immediately after launching it. The projectile then continues on a natural trajectory. In game terms, this means the spell must be aimed, but the projectile bypasses Magic Resistance. The Range of the spell need only be Touch (the magic only needs to act at the moment the projectile is thrown), but once launched, the projectile is subject to the natural laws of motion. The aiming roll suffers a range penalty just like a missile weapon does (page 395) and the projectile can go no farther than it could be thrown by a very powerful mundane bow (or sling, catapult, or other device). Most projectiles thrown by spells have a range increment of 20 paces.
 
 ## Sigils
 
-![](_page_231_Picture_7.jpeg)
-
-very Hermetic maga has a 'wizard's sigil'. All the spells that she casts have something in common, which makes it clear to those who know her
-
-that she was the caster. The sigil also appears in the effects of enchanted devices created by the maga.
+Every Hermetic maga has a 'wizard's sigil'. All the spells that she casts have something in common, which makes it clear to those who know her that she was the caster. The sigil also appears in the effects of enchanted devices created by the maga.
 
 Some sigils affect the environment where the spell is cast. For example, a maga might have the scent of orange blossom as her sigil. In that case, whenever she casts a spell there is a smell of orange blossom in the area. The spell has its effect as normal. Another maga's sigil might make everyone nearby feel briefly chilled.
 
@@ -839,60 +790,45 @@ All kinds of sigil leave some traces behind in the magic, and skilled Hermetic i
 
 Hermetic magi also have a voting sigil, a small physical object which identifies them and is used to vote at Tribunal. This often resembles the casting sigil in some way, but need not.
 
-![](_page_231_Picture_16.jpeg)
-
-![](_page_231_Picture_17.jpeg)
-
-![](_page_232_Picture_0.jpeg)
-
 ## Spell Mastery
 
-![](_page_232_Picture_2.jpeg)
-
-ermetic magi can study
-Formulaic and Ritual spells that
-they know in more detail. This
-study leads to spell mastery.
-Magi can write books about
-
-spells they have mastered, to convey that knowledge to others. The Spell Mastery Ability can be learned from such books according to the normal rules for study (see page 378). Spell mastery Abilities are their own category, and Virtues that give characters access to other categories of Ability do not cover spell mastery Abilities. They may only be learned by characters who use Hermetic magic to cast spells.
+Hermetic magi can study Formulaic and Ritual spells that they know in more detail. This study leads to spell mastery. Magi can write books about spells they have mastered, to convey that knowledge to others. The Spell Mastery Ability can be learned from such books according to the normal rules for study (see page 378). Spell mastery Abilities are their own category, and Virtues that give characters access to other categories of Ability do not cover spell mastery Abilities. They may only be learned by characters who use Hermetic magic to cast spells.
 
 For every possible Hermetic spell, there is a corresponding Ability. This Ability can be studied in the normal ways, and is called the spell's mastery ability. If a maga has a score of one or greater in a mastery ability, she is said to have mastered that spell.
 
-Mastery Ability:
-Adds to casting score and subtracts from number of botch dice
+> Mastery Ability:</br>Adds to casting score and subtracts from number of botch dice
 
 A maga adds her score in the mastery ability to her casting score whenever she casts that spell. In addition, she subtracts her mastery ability from the number of botch dice she has to roll if she rolls a zero. This may bring the number of dice down to zero. Mastered spells are always cast with a stress die, but if the maga is relaxed there are no botch dice, even in a non-Magic aura or when using vis, or when casting a Ritual spell.
 
-## Mastered Spell Special Abilities
+### Mastered Spell Special Abilities
 
 For every level in the Mastery Ability, the maga may also choose one special ability, which applies only to that mastered spell. Thus, a maga with a Mastery Score of two for a spell has two special abilities for that spell. A maga who has mastered more than one spell may have different special abilities with each of them.
 
-## Adaptive Casting
+#### Adaptive Casting
 
 You may use your mastery score and all the special abilities associated with it whenever you cast a similar spell (as defined in the Laboratory chapter, page 260). If you have two or more mastery Abilities that apply to a single spell (because you have mastered two or more spells that are similar
 
 to the spell you are casting) you may only use the score of one Ability, and the special abilities taken for that mastery Ability. For example, if you have mastered *Demon's Eternal Oblivion* 30 with a score of 3, and the abilities Adaptive, Fast Casting, and Penetration, and *Demon's Eternal Oblivion* 25 with a score of 4 and the abilities Adaptive, Quiet Casting twice, and Still Casting, you must use the score of 3 if you want to use the Penetration ability, and the score of 4 if you want to use the Still Casting ability, and you cannot use the Penetration ability with the score of 4.
 
-## **Ceremonial Casting**
+#### Ceremonial Casting
 
 The maga may apply the rules for Ceremonial Casting (page 217) to casting this spell. This special ability may not be taken for Ritual spells, as they effectively use ceremonial casting to start with.
 
 This special ability is not widely known in the Order, having originated with the Cult of Mercury, but it is no longer a secret of the cult. They know other special abilities that do remain secrets of the cult, however (see *The Mysteries*, *Revised Edition*, page 117).
 
-## Fast Casting
+#### Fast Casting
 
 The maga may Fast Cast the mastered spell according to the rules for Fast Casting Spontaneous spells, on page 217. The maga still takes the –10 penalty to Casting Score and risks the extra botch dice, although the botch dice will be partially offset by her Mastery Ability. Any or all of your Mastery Abilities may be applied to the spell even when it is fast-cast, as these abilities are a fundamental part of your understanding of the spell. This special ability may not be taken for Ritual spells.
 
-## Imperturbable Casting
+#### Imperturbable Casting
 
 Add the caster's Mastery score to all Concentration rolls related to the spell. This helps her maintain spells of Concentration Duration amid the chaos of battle, or while casting another spell (see the Concentration Table, page 215).
 
-## Magic Resistance
+#### Magic Resistance
 
 Your Magic Resistance is doubled against the mastered spell, and against any spells or powers that count as similar. (See 'Similar Spells', page 260)
 
-## Multiple Casting
+#### Multiple Casting
 
 You can cast several copies of a single mastered spell so that it affects more people, objects, or areas (as applicable) than normal. A single target may also be affected more than once. You may cast a number of additional copies of the spell equal to or less than your Mastery Score.
 
@@ -900,63 +836,53 @@ All copies of the spell are cast simultaneously, and the action counts as a sing
 
 Subtract the total number of discrete targets from any aiming rolls that are required. Even if all spells are directed at the same target, a –1 applies. The storyguide can further penalize or prohibit multiple casting that is especially difficult, such as casting two spells in opposite directions.
 
-#### AIMING:
-
-## Penalty of one for every separate target, including the first
+> AIMING:</br>Penalty of one for every separate target, including the first
 
 This special ability may be taken for Ritual spells. The casting time is that for a single spell, but one pawn of appropriate vis per magnitude of the spell must be expended for each copy. The normal limit on pawns of vis expended (the maga's score in the Art) applies. Excess Fatigue levels lost convert to wounds, as normal for Ritual spells.
 
-## Obfuscated Casting
+#### Obfuscated Casting
 
 Magi cannot automatically identify the Form of the spell as the magus casts it. This makes it difficult for them to use fast-cast spells as a defense. They must always roll to determine the Form of the spell (see page 217) and must add the caster's Mastery score to the Ease Factor.
 
-## Penetration
+#### Penetration
 
 The maga's Mastery Score is added to her Penetration Ability score for determining her Penetration Bonus (see page 219).
 
-## Precise Casting
+#### Precise Casting
 
 Add +1 to all Finesse rolls the caster makes with the spell, including aiming rolls. Subtract one botch die from any Finesse rolls she makes using the spell, to a minimum of one botch die. A maga may take this ability multiple times for the same spell.
 
-## Quick Casting
+#### Quick Casting
 
 Add +1 to the caster's Initiative Total when he casts the mastered spell. If he also has the Fast Casting special ability, add +1 to his Fast Casting Speed rolls (page 217) when he fast-casts the spell. This ability cannot be taken for Ritual spells. A magus may take this ability multiple times for the same spell.
 
-## Quiet Casting
+#### Quiet Casting
 
 The penalty for casting a spell quietly is reduced by five. This cannot grant a bonus, although using a booming voice gives the normal bonus. A maga may take this ability twice. If she does so, she can cast the spell silently without penalty. The range of a Voice Range spell is still based on the actual loudness of the maga's voice.
 
-## Rebuttal
+#### Rebuttal
 
 This Mastery special ability may be applied to any Muto or Rego Vim spell designed to affect a spell or power used by another being (thus Wizard's Boost or Maintain the Demanding Spell are not eligible, but Mirror of Opposition [Form] is). The magus may add three times his Mastery score to the effective level of the Vim spell when determining whether or not it can change or control the foreign magic.
 
-## Still Casting
+#### Still Casting
 
 The maga can cast the spell without gestures, at no penalty. The normal bonus for using exaggerated gestures applies.
 
-## **Unravelling**
+#### Unravelling
 
 This Mastery special ability may be applied to any Perdo Vim spell designed to weaken or destroy magic. The magus may add three times his Mastery score to the effective level of the Perdo Vim spell when determining whether it can destroy the targeted effect. Thus a 20th level Wind of Mundane Silence cast by a character with this Mastery special ability and a score of 3 can negate the effects of a spell if he can double the spell's level on (29 + stress die) rather than (20 + stress die).
 
-## Books on Spell Mastery
+### Books on Spell Mastery
 
 A book on spell Mastery can be studied by anyone who knows the spell that the book is about. For the purposes of spell Mastery, two spells are the same if they have the same Arts, level, Range, Duration, Target, and effect; essentially, if the game rule versions of the two spells are identical. Different wizard's sigils are not a problem.
 
 Because magi reinvent spells for themselves, rather than actually learning another magus's version, a magus studying spell Mastery from a book may learn any special ability, not just the abilities known by the original author. The book provides insight into the structure of the spell, but that insight may differ slightly between the author's and reader's versions of the spells.
 
-![](_page_233_Picture_24.jpeg)
-
-![](_page_234_Picture_0.jpeg)
-
 ## Dangers
 
-![](_page_234_Picture_2.jpeg)
+Despite the Order's attempts to regulate it and make it a science, magic remains an art. No matter how skilled a practitioner you are, and no matter what precautions you take (short of not using magic at all), your magic will sometimes get out of your control. From the danger of casting a spell improperly to the danger of the enigmatic Wizard's Twilight, magic is filled with hazards.
 
-espite the Order's attempts to regulate it and make it a science, magic remains an art. No matter how skilled a practitioner you are, and no
-
-matter what precautions you take (short of not using magic at all), your magic will sometimes get out of your control. From the danger of casting a spell improperly to the danger of the enigmatic Wizard's Twilight, magic is filled with hazards.
-
-## Botches
+### Botches
 
 The most common danger magi face when performing magic is a botch. The results of a given spell cast under stress are not entirely predictable, and a botch on a spell roll means that the maga has made a mistake that, rather than just causing her spell to fail, causes her spell to produce different effects than she intended. Though the effects of botches can vary widely, they are almost universally detrimental. The storyguide should use his imagination when determining botches.
 
@@ -964,87 +890,83 @@ As noted above (page 213), a botch automatically gives a maga a Casting Total of
 
 Magi gain one Warping Point for every zero that comes up on the botch dice when casting a spell. (This does not include the original zero that meant the botch dice had to be rolled. If the roll does not botch, the magus gains no Warping Points.) If a magus gains two or more Warping Points from a single spell botch, he may enter Wizard's Twilight (see below).
 
-## Botch Suggestions
+#### Botch Suggestions
 
-Attract unwanted attention: The attention of someone or something, perhaps the target of your spell, is drawn to you.
+**Attract unwanted attention**: The attention of someone or something, perhaps the target of your spell, is drawn to you.
 
 **Caster addled:** You are rendered insane, confused, or demented. You acquire the Flaw Simple-Minded for an indefinite duration.
 
-Caster overwhelmed: You are overwhelmed by your own magic. Make a Stamina stress roll of 6+ or be knocked unconscious.
+**Caster overwhelmed**: You are overwhelmed by your own magic. Make a Stamina stress roll of 6+ or be knocked unconscious.
 
-## Sources of Botch Dice
-
-When casting a spell under stress, you start with one botch die, as normal. The storyguide can increase this for all the normal reasons, such as distractions or a difficult magical environment, but there are several standard modifiers to the number of botch dice for spell casting.
-
-Using vis while casting: +1 botch die per pawn of vis used
-
-Casting in a supernatural aura other than Magic: +1 botch die per level of the aura, doubled if in a regio
-
-Fast Casting: +2 botch dice
-
-Golden Cord to a familiar: -1 botch die per level
-
-Spell Mastery: -1 botch die per level
-
-Note that there are a number of Virtues and Flaws that can modify both the number of botch dice, and what they mean. For example, the Faerie Magic Virtue attunes Merinita magi to Faerie auras, so that they do not gain additional botch dice in them.
-
-If the maga is relaxed while casting a Formulaic spell, then there are no botch dice, no matter how many the circumstances would normally add. Note that it is not possible to be relaxed while casting a fatiguing Spontaneous spell, as the process itself is stressful. Ritual spells also require botch dice in all circumstances, unless the maga has mastered them.
-
-Connection with target: Your target becomes aware of your investigations, and may learn something about you through the arcane link that is temporarily established.
+**Connection with target**: Your target becomes aware of your investigations, and may learn something about you through the arcane link that is temporarily established.
 
 **Debilitating**: The spell pushes the target too hard and does permanent damage: for example, a Rego Animal spell might forever leave a beast without its natural instincts and urges.
 
-Flawed creation: A creation is heavily flawed, though the flaw may not be obvious until the creation is expected to serve the function it was created for.
+**Flawed creation**: A creation is heavily flawed, though the flaw may not be obvious until the creation is expected to serve the function it was created for.
 
-Incomplete or improper effect: For example, a spell intended to transform you into a wolf might only transform your head and hands.
+**Incomplete or improper effect**: For example, a spell intended to transform you into a wolf might only transform your head and hands.
 
-Out of control: The spell creates or calls forth something beyond the caster's ability to control.
+**Out of control**: The spell creates or calls forth something beyond the caster's ability to control.
 
-Related but unwanted effect: For example, a spell intended to transform you into a wolf might turn you into another animal.
+**Related but unwanted effect**: For example, a spell intended to transform you into a wolf might turn you into another animal.
 
 **Reverse** effect: The spell does exactly the opposite of what is intended.
 
 **Spell affects caster:** You, instead of the intended target, are affected.
 
-Too powerful: The spell does more than it should and thereby causes problems.
+**Too powerful**: The spell does more than it should and thereby causes problems.
 
 **Undying spell**: The spell does not end at the normal time, and it proves resistant to being dispelled.
 
-Wrong target: Pick a new one at random.
+**Wrong target**: Pick a new one at random.
 
-## **Carping**
+> ### Sources of Botch Dice
+> 
+> When casting a spell under stress, you start with one botch die, as normal. The storyguide can increase this for all the normal reasons, such as distractions or a difficult magical environment, but there are several standard modifiers to the number of botch dice for spell casting.
+> 
+> Using vis while casting: +1 botch die per pawn of vis used
+> 
+> Casting in a supernatural aura other than Magic: +1 botch die per level of the aura, doubled if in a regio
+> 
+> Fast Casting: +2 botch dice
+> 
+> Golden Cord to a familiar: -1 botch die per level
+> 
+> Spell Mastery: -1 botch die per level
+> 
+> Note that there are a number of Virtues and Flaws that can modify both the number of botch dice, and what they mean. For example, the Faerie Magic Virtue attunes Merinita magi to Faerie auras, so that they do not gain additional botch dice in them.
+> 
+> If the maga is relaxed while casting a Formulaic spell, then there are no botch dice, no matter how many the circumstances would normally add. Note that it is not possible to be relaxed while casting a fatiguing Spontaneous spell, as the process itself is stressful. Ritual spells also require botch dice in all circumstances, unless the maga has mastered them.
+
+### Warping
 
 Warping affects everyone, not just Hermetic magi, so it is described in the Long Term Events chapter, page 389. Note that magi gain one Warping Point for every zero on the botch dice when they botch a spell.
 
-## Wizard's Twilight
+### Wizard's Twilight
 
 Wizard's Twilight is unique to Hermetic magic. Most magical traditions have a unique reaction to Warping, and Wizard's Twilight is the reaction of magi trained in the Hermetic tradition.
 
-## Entering Twilight
+#### Entering Twilight
 
 Whenever a maga gains two or more Warping Points from a single event, rather than from prolonged exposure, she must add them to her current total, possibly increasing her Warping Score, and then roll to avoid Twilight.
 
-TWILIGHT AVOIDANCE:
-
-Stamina + Concentration + Vim Form Bonus + stress die vs. Warping Score + Number of Warping Points gained + Enigmatic Wisdom + local aura + stress die (no botch)
+> TWILIGHT AVOIDANCE:</br>Stamina + Concentration + Vim Form Bonus + stress die vs. Warping Score + Number of Warping Points gained + Enigmatic Wisdom + local aura + stress die (no botch)
 
 If the roll succeeds, the maga spends two minutes (one Diameter) bringing her magic under control, but there are no further effects. If the roll fails, the maga enters Wizard's Twilight. If the maga botches, she enters Twilight and cannot comprehend the experience.
 
 A maga may choose not to resist Twilight, in which case she makes no roll and automatically enters Twilight. In some situations, such as combat, taking two minutes to control the magic may be very dangerous, and in such cases a maga may wish to enter Twilight in the hope of comprehending it and thus getting through the experience more quickly.
 
-## Comprehending Twilight
+#### Comprehending Twilight
 
 A maga within Twilight must comprehend her surroundings in order to get out.
 
- $T_{\text{WILIGHT Comprehension:}}$  Intelligence + Enigmatic Wisdom + stress die vs.  $Warping\ Score\ +\ stress\ die$ 
+> Twilight Comprehension:</br>Intelligence + Enigmatic Wisdom + stress die vs. Warping Score + stress die
 
-BOTCH DICE: 1 + 1 per Warping Point gained to trigger the Twilight
+> BOTCH DICE:</br>1 + 1 per Warping Point gained to trigger the Twilight
 
-The time that a maga feels that she spends in Twilight is completely independent of time
+The time that a maga feels that she spends in Twilight is completely independent of time passing in the real world. The time that passes in the real world depends on the maga's Warping Score, and the success of her Twilight Comprehension roll.
 
-passing in the real world. The time that passes in the real world depends on the maga's Warping Score, and the success of her Twilight Comprehension roll.
-
-| Warping<br>Score | Base Time in Twilicht                    |
+| Warping</br>Score | Base Time in Twilicht                    |
 |------------------|------------------------------------------|
 | 1                | Diameter (2 minutes)                     |
 | 2                | Two Hours                                |
@@ -1065,19 +987,13 @@ If the Twilight side of the comprehension roll botches (same botch dice as the m
 
 If the comprehension roll succeeds, subtract the maga's Enigmatic Wisdom score from the result, and compare that total (that is, the maga's Intelligence plus the stress die result) to the Twilight's result.
 
-TWILIGHT TIME:
-Intelligence + stress die vs. Warping Score
-+ stress die
+> TWILIGHT TIME:</br>Intelligence + stress die vs. Warping Score + stress die
 
 Note: The die rolls are the rolls already made to comprehend the Twilight
 
 If the two match exactly, or the maga's score is lower, the maga spends the base time in Twilight. For every additional point by which the maga's score exceeds the Twilight result, move one step shorter on the duration table. For example, if a maga with a Warping score of 7 makes her comprehension roll by three points, the Twilight lasts a day. If this lowers the duration below Diameter, the whole Twilight lasts a mere moment in the real world.
 
-![](_page_235_Picture_24.jpeg)
-
-![](_page_236_Picture_0.jpeg)
-
-## During Twilight
+#### During Twilight
 
 The experiences of magae in Twilight vary enormously. Some experience a dreamlike copy of the real world. Others encounter strange creatures, or copies of themselves, or feel an infinite benevolence watching over the universe, or an infinite malevolence likewise. These may be played out if desired.
 
@@ -1085,71 +1001,63 @@ The effects are equally varied in the outside world. The simplest effect is that
 
 If the maga's body remains in the real world while she is in Twilight, it is completely immune to magic, mundane damage, aging, and hunger. In many ways it seems to be outside the world although it still appears within it. A maga's body is also unable to perform magic while she is in Twilight.
 
-While these are the most common effects, others
+While these are the most common effects, others have been observed. Bjornaer often take the form of their heartbeasts, and Flambeau magi have been known to turn into large fires which burn without fuel.
 
-have been observed. Bjornaer often take the form of their heartbeasts, and Flambeau magi have been known to turn into large fires which burn without fuel.
-
-## **Effects of Twilight**
+#### Effects of Twilight
 
 Every Twilight experience marks the maga. The strength of the mark is random. Roll a simple die. The maga gains that many Warping Points, in addition to the points that triggered the Twilight.
 
 If the maga comprehended the Twilight, the effects are good.
 
-Twilight Scar: Something minor and magical, and also neutral or beneficial. For example, the area around the maga always smells faintly and pleasantly of roses, the maga's eyes glitter with many colors, the maga walks a fraction of an inch above any surface. In the case of a maga who wants to keep her magic inconspicuous, the effect may not be obviously magical: people around her become slightly more cheerful, insects don't bite her, and so on.
+**Twilight Scar**: Something minor and magical, and also neutral or beneficial. For example, the area around the maga always smells faintly and pleasantly of roses, the maga's eyes glitter with many colors, the maga walks a fraction of an inch above any surface. In the case of a maga who wants to keep her magic inconspicuous, the effect may not be obviously magical: people around her become slightly more cheerful, insects don't bite her, and so on.
 
 In addition, the storyguide should pick one of the following effects:
 
-Increased Knowledge: A number of experience points in an Art, Magic Theory, or Enigmatic Wisdom, equal to twice the number of Warping Points gained.
+**Increased Knowledge**: A number of experience points in an Art, Magic Theory, or Enigmatic Wisdom, equal to twice the number of Warping Points gained.
 
-![](_page_236_Picture_13.jpeg)
+**New Hermetic or Supernatural Virtue**: Minor (if between 7 and 10 Warping Points, inclusive), or major (if more than ten Warping Points). Virtues cannot be gained if the maga gains fewer than seven Warping Points.
 
-New Hermetic or Supernatural Virtue: Minor (if between 7 and 10 Warping Points, inclusive), or major (if more than ten Warping Points). Virtues cannot be gained if the maga gains fewer than seven Warping Points.
-
-New Spell: The maga knows a new Formulaic or Ritual spell, with a magnitude equal to the number of Warping Points gained. This spell is chosen by the storyguide, and the maga need not be able to cast it. She may write a Lab Text about it as normal.
+**New Spell**: The maga knows a new Formulaic or Ritual spell, with a magnitude equal to the number of Warping Points gained. This spell is chosen by the storyguide, and the maga need not be able to cast it. She may write a Lab Text about it as normal.
 
 If the maga failed to comprehend the Twilight, the effects are bad.
 
-Twilight Scar: Something minor, magical, and annoying. For example, the area around the maga smells faintly of sulfur, the maga's touch stains skin black (it washes off, with effort), the maga's footprints create myriads of fine cracks in any surface. At the storyguide's discretion, a maga who tries to keep her magic inconspicuous might get a scar she can hide. For example, the smell of iron makes her feel nauseous, or insects always bite her given the chance.
+**Twilight Scar**: Something minor, magical, and annoying. For example, the area around the maga smells faintly of sulfur, the maga's touch stains skin black (it washes off, with effort), the maga's footprints create myriads of fine cracks in any surface. At the storyguide's discretion, a maga who tries to keep her magic inconspicuous might get a scar she can hide. For example, the smell of iron makes her feel nauseous, or insects always bite her given the chance.
 
 In addition, the storyguide should pick one of the following effects:
 
-Lost Knowledge: Lose two experience points for every Warping Point gained in an Art, Magic Theory, or Enigmatic Wisdom. This cannot reduce the score below zero.
+**Lost Knowledge**: Lose two experience points for every Warping Point gained in an Art, Magic Theory, or Enigmatic Wisdom. This cannot reduce the score below zero.
 
-New Hermetic or Supernatural Flaw: Minor (if between 7 and 10 Warping Points, inclusive) or major (if 10 Warping Points or above). The maga can only gain a Flaw if she gains at least seven Warping Points.
+**New Hermetic or Supernatural Flaw**: Minor (if between 7 and 10 Warping Points, inclusive) or major (if 10 Warping Points or above). The maga can only gain a Flaw if she gains at least seven Warping Points.
 
-Lost Spells: The maga loses the knowledge of spells, chosen by the storyguide, with magnitudes totaling the number of Warping Points gained.
+**Lost Spells**: The maga loses the knowledge of spells, chosen by the storyguide, with magnitudes totaling the number of Warping Points gained.
 
-## Certamen
+> #### Twilight Example
+>
+>Darius of Flambeau, played by Niall, botches a spell while hunting a Renounced magus. There are two zeroes on the botch dice, so he gains 2 Warping Points, and must check for Twilight. Darius has a Warping Score of 6, and his enemy is not immediately present, so he chooses to try to resist the Twilight.
+>
+> As a member of House Flambeau, Darius does not have an Enigmatic Wisdom score, so that doesn't affect anything.
+>
+> Darius has a Stamina of 0, Concentration 3, and a Vim bonus of 2. He thus gets +5 to his roll to resist the Twilight, and Niall rolls a six on the stress die, for a total of 11. Not bad, but not great.
+>
+> The Ease Factor is 6 (for his Warping Score) +2 (the number of points gained) + 4 (for the local Faerie aura, a major contributor to the botch in the first place), or 12 + a stress die, no botch. The storyguide doesn't bother rolling; even if he rolls a zero Darius has failed to resist and will enter Twilight.
+>
+> When it comes to comprehending the Twilight, Darius gets his Intelligence, +3, plus a stress die.
+>
+> The Twilight has a base of 6, Darius's Warping Score, plus a stress die. Niall rolls a 7, but the storyguide rolls a 5. Darius has a total of 10, and the Twilight has a total of 11. Darius has failed to comprehend it.
+>
+> The comprehension roll simply failed, so Darius spends the base time in Twilight, and has a bad experience. At a Warping Score of 6, the base time is one season.
+>
+> The storyguide rules that Darius feels his magic destroying his body and mind from the inside. He can't tell how long it takes, although he is fully aware of every step of the process, and as the last trace of his awareness is about to vanish, he comes out of the Twilight. To the outside world, Darius's body appeared to dry up and decay to dust over the course of a few seconds. At the end of a season, Darius reappears, and finds that two of the covenant grogs have been camping here to see whether he was coming back from Twilight.
+>
+>The simple die for additional Warping Points is a one, so Darius gains three Warping Points in total. He loses six experience points in Corpus, two for each of the three Warping Points he gained. He didn't gain enough Warping Points to gain a Flaw. He also gains a Twilight Scar, and the storyguide rules that any dead meat Darius is touching looks, tastes, and smells rotten, although the effect passes when he releases it, and the meat is actually perfectly good. It looks like Darius will be becoming a vegetarian.
+
+### Certamen
 
 Certamen (Care-TAH-men, Latin for "duel") is the ceremony by which two magi conduct a magical duel. It serves as a nonlethal way for one magus to establish dominance and precedence over another, and has formal restrictions to keep it from disrupting the unity of the Order.
 
 The most important is that certamen cannot be used to over-rule a Tribunal, require a violation of the Code, or require a magus to overlook a violation of the Code. Beyond that, however, certamen can be used to settle any dispute, and the result of the certamen is binding.
 
-One need not accept a challenge to certamen, but that is the same as conceding defeat. You may challenge anyone to certamen over a certain issue once, but the Peripheral Code prohibits you from challenging the same person again over that issue unless he challenges you in the meantime. If
-
-## Twilight Example
-
-Darius of Flambeau, played by Niall, botches a spell while hunting a Renounced magus. There are two zeroes on the botch dice, so he gains 2 Warping Points, and must check for Twilight. Darius has a Warping Score of 6, and his enemy is not immediately present, so he chooses to try to resist the Twilight.
-
-As a member of House Flambeau, Darius does not have an Enigmatic Wisdom score, so that doesn't affect anything.
-
-Darius has a Stamina of 0, Concentration 3, and a Vim bonus of 2. He thus gets +5 to his roll to resist the Twilight, and Niall rolls a six on the stress die, for a total of 11. Not bad, but not great.
-
-The Ease Factor is 6 (for his Warping Score) +2 (the number of points gained) + 4 (for the local Faerie aura, a major contributor to the botch in the first place), or 12 + a stress die, no botch. The storyguide doesn't bother rolling; even if he rolls a zero Darius has failed to resist and will enter Twilight.
-
-When it comes to comprehending the Twilight, Darius gets his Intelligence, +3, plus a stress die.
-
-The Twilight has a base of 6, Darius's Warping Score, plus a stress die. Niall rolls a 7, but the storyguide rolls a 5. Darius has a total of 10, and the Twilight has a total of 11. Darius has failed to comprehend it.
-
-The comprehension roll simply failed, so Darius spends the base time in Twilight, and has a bad experience. At a Warping Score of 6, the base time is one season.
-
-The storyguide rules that Darius feels his magic destroying his body and mind from the inside. He can't tell how long it takes, although he is fully aware of every step of the process, and as the last trace of his awareness is about to vanish, he comes out of the Twilight. To the outside world, Darius's body appeared to dry up and decay to dust over the course of a few seconds. At the end of a season, Darius reappears, and finds that two of the covenant grogs have been camping here to see whether he was coming back from Twilight.
-
-The simple die for additional Warping Points is a one, so Darius gains three Warping Points in total. He loses six experience points in Corpus, two for each of the three Warping Points he gained. He didn't gain enough Warping Points to gain a Flaw. He also gains a Twilight Scar, and the storyguide rules that any dead meat Darius is touching looks, tastes, and smells rotten, although the effect passes when he releases it, and the meat is actually perfectly good. It looks like Darius will be becoming a vegetarian.
-
-![](_page_238_Picture_0.jpeg)
-
-another issue comes up, you may challenge him again. Bullying magi with certamen is a Low Crime in almost all Tribunals. Certamen is solely an institution of the Order of Hermes; non-Hermetic wizards do not have the ability to participate in the ceremony, as it relies heavily on the Hermetic Arts.
+One need not accept a challenge to certamen, but that is the same as conceding defeat. You may challenge anyone to certamen over a certain issue once, but the Peripheral Code prohibits you from challenging the same person again over that issue unless he challenges you in the meantime. If another issue comes up, you may challenge him again. Bullying magi with certamen is a Low Crime in almost all Tribunals. Certamen is solely an institution of the Order of Hermes; non-Hermetic wizards do not have the ability to participate in the ceremony, as it relies heavily on the Hermetic Arts.
 
 Both participants specify in advance what the other magus will do, or refrain from doing, if he loses. The two requirements are expected to be symmetrical, and Tribunals do over-ride the results on asymmetric certamens. This gives magi some motivation not to bully with certamen; even the greatest archmage can botch.
 
@@ -1159,29 +1067,35 @@ Once the Technique and Form are chosen, you and your opponent concentrate for a 
 
 Mechanical resolution of certamen is based on six totals.
 
+```
 INITIATIVE TOTAL:
-
 Quickness + Finesse + Stress Die
+```
 
+```
 Attack Total:
-
 Presence + Technique or Form + Stress Die
+```
 
+```
 DEFENSE TOTAL:
-
 Perception + Form or Technique + Stress Die
+```
 
+```
 ATTACK ADVANTAGE:
-
 Attack Total - Defense Total (if Attack Total is higher)
+```
 
+```
 Weakening Total:
-
 Intelligence + Penetration + Attack Advantage
+```
 
+```
 RESISTANCE TOTAL:
-
 Stamina + Parma Magica
+```
 
 Initiative is rolled only once, at the beginning of the duel. This initiative is the same as combat initiative (see page 393), and if a certamen is taking place during combat, each magus acts at the point in the sequence determined by his initiative total.
 
@@ -1191,7 +1105,7 @@ Each magus must use both the Technique and the Form in each round of certamen, u
 
 Subtract the defender's Resistance Total from the Weakening Total. For every five points or fraction left over, the defender loses a Fatigue level. Note that the magus's Parma Magica score is added to the Resistance Total; it is not multiplied by five as it is for Magic Resistance.
 
-| Weakening Total -<br>Resistance Total | Fatigue Levels Lost |
+| Weakening Total -</br>Resistance Total | Fatigue Levels Lost |
 |---------------------------------------|---------------------|
 | 0                                     | None                |
 | 1–5                                   | 1                   |
@@ -1201,70 +1115,6 @@ Subtract the defender's Resistance Total from the Weakening Total. For every fiv
 | 21–25                                 | 5                   |
 | 26–30                                 | 6                   |
 | etc.                                  | etc.                |
-
-![](_page_238_Picture_22.jpeg)
-
-## Gertamen Example
-
-Moratamis of Guernicus harbors suspicions about what Carolus of Tytalus gets up to at night. She asks him to tell her what he is doing, and he refuses. She doesn't have enough for an official Quaesitorial investigation, so she challenges him to certamen, demanding that he tell her what he has done if he loses. Carolus agrees, with the condition that Moratamis will not ask him about his activities again unless she is on official Quaesitorial business. (He has to add the condition, although he would prefer not to, or else the Tribunal is unlikely to uphold a result in his favor.) Carolus suspects he will lose, as Moratamis is older and thus more powerful.
-
-Moratamis's Arts are: Cr 1, In 12, Mu 1, Pe 7, Re 8; An 5, Aq 0, Au 0, Co 5, He 0, Ig 0, Im 10, Me 13, Te 0, Vi 5
-
-Her Characteristics are: Int +2, Per +3, Pre +2, Com +1, Str -2, Sta +1, Dex -2, Qik -1
-
-Her relevant Abilities are: Finesse 2, Parma Magica 5, Penetration 3.
-
-Carolus's Arts are: Cr 2, In 0, Mu 5, Pe 10, Re 7; An 3, Aq 0, Au 0, Co 5, He 0, Ig 0, Im 10, Me 7, Te 6, Vi 4
-
-His Characteristics are: Int +2, Per -1, Pre -1, Com -1, Str 0, Sta +1, Dex +4, Qik 0
-
-His relevant Abilities are: Finesse 2, Parma Magica 3, Penetration 1.
-
-Moratamis challenged, so she picks the Technique. She is fairly sure that the only Technique she is much better at is Intellego, and she's also sure that Carolus knows this too. She thinks that her scores in Rego and Creo are fairly balanced with Carolus's, though. She knows that, if she proposes Intellego first, Carolus will veto it. On the other hand, if she proposes Rego first, Carolus might have other reasons to veto that, and thus let her use Intellego. Thus, she proposes Rego.
-
-Carolus accepts, knowing full well that he'll be stuck with Intellego if he doesn't. For the Form, he proposes Imaginem. He knows that Moratamis studies that, but also that he has a reputation as a bit of an Imaginem specialist. He hopes that she'll think he thinks he has an advantage she doesn't know about. It works;
-
-Moratamis vetoes his first choice. Carolus then settles on Terram, where he is fairly sure he is better.
-
-The two now have the following statistics:
-
-Moratamis: Initiative: +1 (Qik –1 + Finesse 2), Attack: +10 (Rego: Rego 8 + Pre +2) or +2 (Terram: Terram 0 + Pre +2), Defense +11 (Rego: Rego 8
-
-+ Per +3) or +3 (Terram: Terram 0 + Per +3), Weakening +5 (Int +2 + Penetration 3), Resistance +6 (Sta
-
-+1 + Parma Magica 5)
-
-Carolus: Initiative: +2 (Oik 0
-
-(Sta +1 + Parma Magica 3)
-
-+ Finesse 2), Attack +6 (Rego: Rego 7 + Pre -1) or +5 (Terram: Terram 6 + Pre -1), Defense +6 (Rego: Rego 7 + Per -1) or +5 (Terram: Terram 6 + Per -1), Weakening +3 (Int +2 + Penetration 1), Resistance +4
-
-The phantasms for the contest are the stones of the floor under their feet, which try to rise up and engulf them.
-
-The two roll Initiative. Moratamis rolls a 2, for a total of 3, and Carolus rolls a 5, for a total of 7. Carolus acts first.
-
-On the first round, Carolus chooses to put Rego into attack and Terram into defense, while Moratamis chooses to defend with Rego and attack with Terram. Carolus attacks first, and rolls a 12 (lucky!), for an Attack Total of 18. Moratamis rolls a 7, for a Defense Total of 18. On a dead heat, the defender wins, and Carolus cannot get through. Then Moratamis attacks. She rolls a 5, for a total of 7, while Carolus rolls a 2, also for a total of 7. Another dead heat, so nothing happens. The stones jump around a bit, but nothing happens.
-
-On the next round, Moratamis switches her Arts, in the hope of breaking through Carolus's defenses. Carolus still attacks first, and rolls a 10, for an Attack Total of 16. Moratamis rolls a zero, but doesn't botch, for a Defense Total of 3. Carolus has an Attack Advantage of 13. This adds to his Weakening Score of +3, for a Weakening Total of 16. Moratamis subtracts her Resistance of 6, so the final damage is 10. Moratamis thus loses two Fatigue levels, giving her a –1 penalty on Attack and Defense.
-
-On her attack, Moratamis rolls a 2, for an Attack Total of 11, including the –1 penalty. Carolus rolls
-
-a 6, for a Defense Total of 11. Thanks to having already weakened Moratamis, he beats off the attack. The stones have climbed up to around Moratamis's knees.
-
-Moratamis decides that her switch of strategy was a mistake, and switches back. Carolus rolls a 20 (lucky again!) for an Attack Total of 26. Moratamis rolls an 8, for a Defense Total of 18. Carolus has an Attack Advantage of 8, which translates into a single Fatigue level lost. Moratamis now has a –3 penalty to Attack and Defense.
-
-She rolls a 7, which gives her an Attack Total of 6. Carolus rolls a 4, for a Defense Total of 9, easily safe.
-
-Moratamis is now hoping for a lucky break, and Carolus only rolls a 6, for an Attack Total of 12. Moratamis rolls a 6, for a Defense Total of 14, including the penalty. She is safe this round. For her counterattack, she rolls a 5, for an Attack Total of 4. Carolus rolls a zero, but doesn't botch, and still has a Defense Total of 5. He is safe, and the stones are swarming up around Moratamis's waist.
-
-The next round remains evenly balanced, neither magus managing to weaken the other. In the following round, Carolus rolls a 9, for an Attack Total of 15, while Moratamis only manages a 4, for a Defense Total of 12. This gives Carolus a Weakening Total of 6, which Moratamis is just able to resist. Still, she feels it and a few stones boil up to her chest for a moment. She rolls a 7 for her attack, for an Attack Total of 6. Carolus rolls a 6, for a Defense Total of 11, and easily blocks the thrust.
-
-In the next round, Carolus rolls a 10, for a total of 16, while Moratamis rolls a 0, but doesn't botch, for a Defense Total of 8. This gives Carolus a final advantage of 2 points, enough to clip a further Fatigue level from Moratamis. Now that she has a penalty of –5 to Attack and Defense, she decides that she cannot win, and concedes the contest so that Carolus cannot cast a spell on her. Carolus goes off feeling that he wriggled out of that one quite nicely, and Moratamis turns her attention to other matters.
-
-![](_page_239_Picture_27.jpeg)
-
-![](_page_240_Picture_0.jpeg)
 
 Certamen itself never causes wounds, merely exhaustion. If you lose more Fatigue levels than you have, you spend one more hour unconscious for every additional level lost.
 
@@ -1280,7 +1130,57 @@ The third way to win certamen is to maintain concentration in the face of distra
 
 Loss of concentration, however, does not necessarily mean that certamen is over and that a victor is decided. If the victor under these circumstances refuses the honor, and the combatant who lost concentration agrees, the battle may resume until a clear victor emerges. A magus might refuse a victory by loss of concentration for reasons of honor, or because he intends to do more harm.
 
-## Mysteries
+> #### Gertamen Example
+>
+> Moratamis of Guernicus harbors suspicions about what Carolus of Tytalus gets up to at night. She asks him to tell her what he is doing, and he refuses. She doesn't have enough for an official Quaesitorial investigation, so she challenges him to certamen, demanding that he tell her what he has done if he loses. Carolus agrees, with the condition that Moratamis will not ask him about his activities again unless she is on official Quaesitorial business. (He has to add the condition, although he would prefer not to, or else the Tribunal is unlikely to uphold a result in his favor.) Carolus suspects he will lose, as Moratamis is older and thus more powerful.
+> 
+> Moratamis's Arts are: Cr 1, In 12, Mu 1, Pe 7, Re 8; An 5, Aq 0, Au 0, Co 5, He 0, Ig 0, Im 10, Me 13, Te 0, Vi 5
+> 
+> Her Characteristics are: Int +2, Per +3, Pre +2, Com +1, Str -2, Sta +1, Dex -2, Qik -1
+> 
+> Her relevant Abilities are: Finesse 2, Parma Magica 5, Penetration 3.
+> 
+> Carolus's Arts are: Cr 2, In 0, Mu 5, Pe 10, Re 7; An 3, Aq 0, Au 0, Co 5, He 0, Ig 0, Im 10, Me 7, Te 6, Vi 4
+> 
+> His Characteristics are: Int +2, Per -1, Pre -1, Com -1, Str 0, Sta +1, Dex +4, Qik 0
+> 
+> His relevant Abilities are: Finesse 2, Parma Magica 3, Penetration 1.
+> 
+> Moratamis challenged, so she picks the Technique. She is fairly sure that the only Technique she is much better at is Intellego, and she's also sure that Carolus knows this too. She thinks that her scores in Rego and Creo are fairly balanced with Carolus's, though. She knows that, if she proposes Intellego first, Carolus will veto it. On the other hand, if she proposes Rego first, Carolus might have other reasons to veto that, and thus let her use Intellego. Thus, she proposes Rego.
+> 
+> Carolus accepts, knowing full well that he'll be stuck with Intellego if he doesn't. For the Form, he proposes Imaginem. He knows that Moratamis studies that, but also that he has a reputation as a bit of an Imaginem specialist. He hopes that she'll think he thinks he has an advantage she doesn't know about. It works;
+> 
+> Moratamis vetoes his first choice. Carolus then settles on Terram, where he is fairly sure he is better.
+> 
+> The two now have the following statistics:
+> 
+> Moratamis: Initiative: +1 (Qik –1 + Finesse 2), Attack: +10 (Rego: Rego 8 + Pre +2) or +2 (Terram: Terram 0 + Pre +2), Defense +11 (Rego: Rego 8 + Per +3) or +3 (Terram: Terram 0 + Per +3), Weakening +5 (Int +2 + Penetration 3), Resistance +6 (Sta +1 + Parma Magica 5)
+> 
+> Carolus: Initiative: +2 (Oik 0 (Sta +1 + Parma Magica 3) + Finesse 2), Attack +6 (Rego: Rego 7 + Pre -1) or +5 (Terram: Terram 6 + Pre -1), Defense +6 (Rego: Rego 7 + Per -1) or +5 (Terram: Terram 6 + Per -1), Weakening +3 (Int +2 + Penetration 1), Resistance +4
+> 
+> The phantasms for the contest are the stones of the floor under their feet, which try to rise up and engulf them.
+> 
+> The two roll Initiative. Moratamis rolls a 2, for a total of 3, and Carolus rolls a 5, for a total of 7. Carolus acts first.
+> 
+> On the first round, Carolus chooses to put Rego into attack and Terram into defense, while Moratamis chooses to defend with Rego and attack with Terram. Carolus attacks first, and rolls a 12 (lucky!), for an Attack Total of 18. Moratamis rolls a 7, for a Defense Total of 18. On a dead heat, the defender wins, and Carolus cannot get through. Then Moratamis attacks. She rolls a 5, for a total of 7, while Carolus rolls a 2, also for a total of 7. Another dead heat, so nothing happens. The stones jump around a bit, but nothing happens.
+> 
+> On the next round, Moratamis switches her Arts, in the hope of breaking through Carolus's defenses. Carolus still attacks first, and rolls a 10, for an Attack Total of 16. Moratamis rolls a zero, but doesn't botch, for a Defense Total of 3. Carolus has an Attack Advantage of 13. This adds to his Weakening Score of +3, for a Weakening Total of 16. Moratamis subtracts her Resistance of 6, so the final damage is 10. Moratamis thus loses two Fatigue levels, giving her a –1 penalty on Attack and Defense.
+> 
+> On her attack, Moratamis rolls a 2, for an Attack Total of 11, including the –1 penalty. Carolus rolls
+> 
+> a 6, for a Defense Total of 11. Thanks to having already weakened Moratamis, he beats off the attack. The stones have climbed up to around Moratamis's knees.
+> 
+> Moratamis decides that her switch of strategy was a mistake, and switches back. Carolus rolls a 20 (lucky again!) for an Attack Total of 26. Moratamis rolls an 8, for a Defense Total of 18. Carolus has an Attack Advantage of 8, which translates into a single Fatigue level lost. Moratamis now has a –3 penalty to Attack and Defense.
+> 
+> She rolls a 7, which gives her an Attack Total of 6. Carolus rolls a 4, for a Defense Total of 9, easily safe.
+> 
+> Moratamis is now hoping for a lucky break, and Carolus only rolls a 6, for an Attack Total of 12. Moratamis rolls a 6, for a Defense Total of 14, including the penalty. She is safe this round. For her counterattack, she rolls a 5, for an Attack Total of 4. Carolus rolls a zero, but doesn't botch, and still has a Defense Total of 5. He is safe, and the stones are swarming up around Moratamis's waist.
+> 
+> The next round remains evenly balanced, neither magus managing to weaken the other. In the following round, Carolus rolls a 9, for an Attack Total of 15, while Moratamis only manages a 4, for a Defense Total of 12. This gives Carolus a Weakening Total of 6, which Moratamis is just able to resist. Still, she feels it and a few stones boil up to her chest for a moment. She rolls a 7 for her attack, for an Attack Total of 6. Carolus rolls a 6, for a Defense Total of 11, and easily blocks the thrust.
+> 
+> In the next round, Carolus rolls a 10, for a total of 16, while Moratamis rolls a 0, but doesn't botch, for a Defense Total of 8. This gives Carolus a final advantage of 2 points, enough to clip a further Fatigue level from Moratamis. Now that she has a penalty of –5 to Attack and Defense, she decides that she cannot win, and concedes the contest so that Carolus cannot cast a spell on her. Carolus goes off feeling that he wriggled out of that one quite nicely, and Moratamis turns her attention to other matters.
+
+## Mysteries %^&
 
 ![](_page_240_Picture_9.jpeg)
 
